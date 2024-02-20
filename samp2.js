@@ -7,7 +7,12 @@ export const samp2 = () => {
       <div>samp2--gowtham-merge 1,2 newly Added some</div>
     <div>samp2--gowtham-merge 1,2</div>
       <div>samp2--gowtham-merge 1,2 newly Added some</div>
+<<<<<<< HEAD
     <div>samp2--gowtham-merge 1,2,HELLO ONE,TWO</div>
+=======
+    <div>samp2--gowtham-merge 1,2,HELLO ONE</div>
+    <div>samp2--gowtham-merge 1,2,HELLO ONE,three</div>
+>>>>>>> gowtham
     </div>
 
 
