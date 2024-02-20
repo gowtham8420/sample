@@ -4,7 +4,7 @@ export const samp2 = () => {
   return (
     <div>samp2
       <div>samp2--gowtham-merge 1,2</div>
-      <div>samp2--gowtham-merge 1,2 newly Added</div>
+      <div>samp2--gowtham-merge 1,2 newly</div>
     </div>
 
 
