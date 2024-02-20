@@ -9,6 +9,7 @@ export const samp2 = () => {
       <div>samp2--gowtham-merge 1,2 newly Added some</div>
     <div>samp2--gowtham-merge 1,2,HELLO ONE</div>
     <div>samp2--gowtham-merge 1,2,HELLO ONE,three</div>
+    <div>samp2--gowtham-merge 1,2,HELLO ONE,TWO,three</div>
     </div>
 
 
